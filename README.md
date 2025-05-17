@@ -99,8 +99,7 @@
 
 ## Entity-Relationship (ER) Diagram
 ### Below is the ER diagram representing the relationships between the `movies`, `users`, `posts`, and `comments` collections:
-- ![Image](https://github.com/user-attachments/assets/2a0429d9-ad4f-4d23-afa8-8b6f0b1115fb)
-
+- ![Image](https://github.com/user-attachments/assets/b8cb8b5a-1515-4c0d-a529-d764bcde9e46)
 
 
 
