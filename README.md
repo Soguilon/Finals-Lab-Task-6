@@ -69,3 +69,38 @@
 
 - ![Image](https://github.com/user-attachments/assets/dbb89c2b-bd0e-4b23-ab5e-7e50fe16d9ad)
 
+## Relationships
+### Insert the following documents into a `users` collection
+- ![Image](https://github.com/user-attachments/assets/72c55764-ae21-4956-9050-ee81215f31c6)
+  
+### Insert the following documents into a `posts` collection
+- ![Image](https://github.com/user-attachments/assets/65cff780-183d-44ca-bc71-dc3f82175507)
+
+### Insert the following documents into a `comments` collection
+- ![Image](https://github.com/user-attachments/assets/10e1ada2-528f-4ef8-9ac8-f968141be180)
+
+## Querying Related Collections
+1. Find all users  
+- ![Image](https://github.com/user-attachments/assets/74999544-f88f-4955-82f1-c17fa4c24ec2)
+2. Find all posts  
+- ![Image](https://github.com/user-attachments/assets/d31e8ad1-4a46-4f62-8d90-e048c60ee9f7)
+3. Find all posts that were authored by **GoodGuyGreg**  
+- ![Image](https://github.com/user-attachments/assets/3b698a65-ccdd-4699-b893-afa29c9f7c61)
+4. Find all posts that were authored by **ScumbagSteve**  
+- ![Image](https://github.com/user-attachments/assets/1bd294a0-5adf-4b46-968d-9aa0aa0ec32c)
+5. Find all comments  
+- ![Image](https://github.com/user-attachments/assets/b4c12f78-68a8-489c-98d1-e63f90da7464)
+6. Find all comments that were authored by **GoodGuyGreg**  
+- ![Image](https://github.com/user-attachments/assets/0e1f45a6-a7fb-46af-a575-90d7364211d2)
+7. Find all comments that were authored by **ScumbagSteve**  
+- ![Image](https://github.com/user-attachments/assets/abe3af3f-f324-408a-8a7b-4af07762e070)
+8. Find all comments belonging to the post **"Reports a bug in your code"**
+- ![Image](https://github.com/user-attachments/assets/8d11cbf4-3512-4a52-a80c-8d5ed891c70a)
+
+## Entity-Relationship (ER) Diagram
+### Below is the ER diagram representing the relationships between the `movies`, `users`, `posts`, and `comments` collections:
+- ![Image](https://github.com/user-attachments/assets/2a0429d9-ad4f-4d23-afa8-8b6f0b1115fb)
+
+
+
+
